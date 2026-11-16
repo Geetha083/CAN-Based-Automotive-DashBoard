@@ -1,5 +1,6 @@
 # CAN-Based-Automotive-DashBoard
 Developed a CAN-based automotive dashboard using three PIC18F4580 microcontrollers to monitor speed, gear, RPM, and indicator status.
+# CAN-Based Automotive Dashboard
 
 ## Project Overview
 
@@ -56,4 +57,17 @@ Through this project, I gained practical experience in:
 - PIC18F4580 microcontroller programming.
 - ADC configuration and sensor interfacing.
 - CAN protocol configuration and communication.
--
+- Digital keypad and LED interfacing.
+- CLCD interfacing and data display.
+- Integration and debugging of multiple ECUs.
+
+## Development Environment
+
+- **IDE:** MPLAB X IDE
+- **Compiler:** XC8
+- **Microcontroller:** PIC18F4580
+- **Programming Language:** Embedded C
+
+## Conclusion
+
+This project helped me understand how multiple Electronic Control Units communicate in an automotive system using the CAN protocol. It provided hands-on experience in developing, integrating, and debugging a multi-ECU embedded system.
